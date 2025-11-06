@@ -1,10 +1,11 @@
 # Atividade-de-extens-o-dev-git
 Projeto de extensão- Ecommerce
-"Nome do ecommerce"
-Integrante líder 1:
-Integrante 2:
-Integrante 3:
-Integrante 4:
-Integrante 5:
+"Mercado Livre Devs"
+Integrante líder 1:Beatriz Pires 
+Integrante 2:Lucas Coelho Suero
+Integrante 3:Gabriel Saras Pereira
+Integrante 4:Lion Patrocínio Cunha Costa
+Integrante 5:Nicoli 
+
 ---------
-Tecnologias Utilizadas:
+Tecnologias Utilizadas: Html, Css e java script
